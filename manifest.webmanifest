@@ -1,10 +1,10 @@
 {
-  "name": "MyStudy - 単語カード",
+  "name": "MyStudy Flashcards",
   "short_name": "MyStudy",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#f5f6f2",
-  "theme_color": "#e9efe9",
+  "background_color": "#0b1014",
+  "theme_color": "#0d1216",
   "icons": [
     {
       "src": "icons/icon-192.png",
